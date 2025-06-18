@@ -5,6 +5,8 @@ location: ./
 ---
 These are some of the pieces of knowledge that I like to have handy.
 
+[[neuroanatomy|Neuroanatomy]]
+
 ## Medical notes
 
 - [[Cranial nerves overview]]
