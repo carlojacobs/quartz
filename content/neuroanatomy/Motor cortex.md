@@ -2,7 +2,7 @@
 created: 2025.06.05 17:45
 status: in-progress
 public: true
-location: /neuroanatomy
+location: /Neuroanatomy
 ---
 # Motor cortex
 

@@ -1,38 +1,13 @@
 ---
-created: 2025.05.17 18:03
-aliases:
-  - Medicine
+created: 2025.06.18 19:16
 public: true
-location: /
+location: ./
 ---
-# Medicine
-
-## Sub-indices
-
-[[inn|INN research]]
-
-[[neuroanatomy|Neuroanatomy]]
+These are some of the pieces of knowledge that I like to have handy.
 
 ## Medical notes
 
-[[Cranial nerves overview]]
-
-[[Hasselbach's triangle]]
-
-[[Hepatitis B antibodies]]
-
-[[How to analyse an ECG]]
-
-## General notes
-
-[[Master werkgroep]]
-
-[[Academische kalender 24-25]]
-
-[[Feedback AV]]
-
-[[Feedback informatieoverdracht]]
-
-[[Mailadres neurochirurg UMCU]]
-
-[[Useful websites]]
+- [[Cranial nerves overview]]
+- [[Hasselbach's triangle]]
+- [[Hepatitis B antibodies]]
+- [[How to analyse an ECG]]
