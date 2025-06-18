@@ -3,7 +3,7 @@ Date Created: 2025.06.10 0920
 public: true
 ---
 
-![[zoomed-in-trace.png|400]]
+![](zoomed-in-trace.png|400)
 
 ## 1. Rhythm
 

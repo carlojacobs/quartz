@@ -4,7 +4,6 @@ aliases:
   - Neuroanatomy
 public: true
 ---
-
 # Neuroanatomy
 
 ## Brain

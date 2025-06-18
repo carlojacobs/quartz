@@ -5,7 +5,7 @@ public: true
 ---
 # Motor cortex
 
-![[Human_motor_cortex.jpg|400]]
+![](Human_motor_cortex.jpg|400)
 
 ## Etymology
 
