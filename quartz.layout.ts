@@ -39,8 +39,9 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      folderClickBehavior: "link",
-      filterFn: (node) => node.data.frontmatter?.isQuartzIndex === true
+      folderClickBehavior: "collapse",
+      // filterFn: (node) => node.data.frontmatter?.isQuartzIndex === true
+      filterFn: (node) => !node.slug.includes("/"), // only root-level notes
     }),
   ],
   right: [
