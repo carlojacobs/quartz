@@ -10,4 +10,4 @@ location: ./
 
 I am a student studying at [Utrecht University](https://www.uu.nl) in the Netherlands, currently finishing my double bachelor’s degree in mathematics and physics, but moving on to a master’s in medicine this August. For an overview of my endeavours so far, see my [[Resume|resume]].
 
-You might want to visit my collection of [[10 Meta/Quartz/Pages/Medicine|medical notes]].
+You might want to visit my collection of [[Medicine page|medical notes]].
