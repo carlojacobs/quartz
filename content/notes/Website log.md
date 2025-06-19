@@ -8,9 +8,9 @@ This is a running log of the changes I made to this website.
 - [ ] Improve navigation bar
 - [ ] Add a custom Gif or drawing to the index page
 - [ ] Improve index page
-- [ ] Change font
+- [x] Change font
 - [ ] Change theme colors
-- [ ] Make breadcrumbs make sense
+- [x] Make breadcrumbs make sense - I hid them
 - [ ] Find a better name
 - [ ] Make links make sense
 - [ ] Write a maintenance protocol for the site
@@ -23,6 +23,7 @@ This is a running log of the changes I made to this website.
 - Commented out the breadcrumbs in `quartz.layout.ts`.
 - Made the index prettier.
 - Enable the `HardLineBreaks` plugin.
+- Changed the default font sizing.
 
 ---
 Links: [[obsidian]]
