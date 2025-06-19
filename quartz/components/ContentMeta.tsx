@@ -25,7 +25,13 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
+    const frontmatter = fileData.frontmatter
+    const created = frontmatter?.created as Date
 
+    if (!created || frontmatter?.hide_metadata) {
+      return null
+    }
+    
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
