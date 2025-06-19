@@ -1,5 +1,6 @@
 ---
 created: 2025.06.18 19:16
+title: Medicine
 public: true
 location: ./
 hide_metadata: true
