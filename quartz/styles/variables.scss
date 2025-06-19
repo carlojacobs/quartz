@@ -56,3 +56,45 @@ $desktopGrid: (
       "grid-sidebar-left grid-center grid-sidebar-right"\
       "grid-sidebar-left grid-footer grid-sidebar-right"',
 );
+
+// From turntrout
+// Define SCSS Variables
+$pages-width: 750px;
+$mobile-breakpoint: 600px;
+$tablet-breakpoint: 1000px;
+$left-sidebar-width: 200px;
+$right-sidebar-width: 330px;
+$margins-begin: 825px;
+$top-spacing: 2rem;
+$min-desktop-width: #{$pages-width + $left-sidebar-width + $right-sidebar-width + 24px}; // Some extra margin for the gap
+$max-mobile-width: $min-desktop-width - 1px; // Prevent overlap of rules when width equals minDesktopWidth
+
+$base-margin: 0.5rem;
+$max-sidebar-gap: 4rem; // 8 * $base-margin
+$max-content-width: #{$pages-width + $right-sidebar-width + 100px}; // 100 for gap
+$bold-weight: 700;
+$semi-bold-weight: 600;
+$normal-weight: 400;
+$line-height: 1.8rem;
+$list-padding-left: 2rem;
+
+// Shared SCSS variables map (for easy reference)
+$variables: (
+  pages-width: $pages-width,
+  mobile-breakpoint: $mobile-breakpoint,
+  tablet-breakpoint: $tablet-breakpoint,
+  left-sidebar-width: $left-sidebar-width,
+  right-sidebar-width: $right-sidebar-width,
+  margins-begin: $margins-begin,
+  top-spacing: $top-spacing,
+  min-desktop-width: $min-desktop-width,
+  max-mobile-width: $max-mobile-width,
+  max-sidebar-gap: $max-sidebar-gap,
+  max-content-width: $max-content-width,
+  base-margin: $base-margin,
+  bold-weight: $bold-weight,
+  semi-bold-weight: $semi-bold-weight,
+  normal-weight: $normal-weight,
+  line-height: $line-height,
+  list-padding-left: $list-padding-left
+);

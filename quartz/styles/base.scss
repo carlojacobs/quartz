@@ -3,6 +3,8 @@
 @use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
+// Add fonts
+@use "./fonts";
 
 html {
   scroll-behavior: smooth;
