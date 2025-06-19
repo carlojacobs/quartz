@@ -6,6 +6,8 @@ This is a running log of the changes I made to this website.
 
 ## A list of future improvements
 - [ ] Improve navigation bar
+- [ ] Add a custom Gif or drawing to the index page
+- [ ] Improve index page
 - [ ] Change font
 - [ ] Change theme colors
 - [ ] Make breadcrumbs make sense
