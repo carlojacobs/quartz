@@ -2,6 +2,7 @@
 created: 2025.06.18 19:16
 public: true
 location: ./
+hide_metadata: true
 ---
 These are some of the pieces of knowledge that I like to have handy.
 

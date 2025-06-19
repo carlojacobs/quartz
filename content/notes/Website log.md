@@ -14,7 +14,11 @@ This is a running log of the changes I made to this website.
 - [ ] Write a maintenance protocol for the site
 
 ## Thu 19.6.25
-- Published the site
+- Created site
+- Added `hide_title` option and modified `ArticleTitle.tsx` accordingly.
+- Made it so the if a note does not have a `created` date, the metadata will not be shown.
+- Added a `hide_metadata` option and modified `ContentMeta.tsx` accordingly.
+- Commented out the breadcrumbs in `quartz.layout.ts`.
 
 ---
 Links: [[obsidian]]
