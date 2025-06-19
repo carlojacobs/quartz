@@ -15,6 +15,7 @@ This is a running log of the changes I made to this website.
 - [ ] Make links make sense
 - [ ] Write a maintenance protocol for the site
 - [ ] Figure out structure of site in terms of pages, indices and menu’s
+- [ ] Add caption functionality to images
 
 ## Thu 19.6.25
 - Created site
