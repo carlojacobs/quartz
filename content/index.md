@@ -1,10 +1,6 @@
 ---
-title: "Welcome"
+title: Greetings
+public: true
+location: ./
 ---
-
-> [!quote]
-> "It's not in the persuit of hapiness, but the hapiness of persuit."
-
-Hello. You've stumbled upon my notes. Use them at your own risk.
-
-I'm trying to build a useful collection of notes on the things I am working at in my life. For reference.
+Hello. You have stumbled upon my webpage. Launched this site with the aim of sharing some of the bits of knowledge that I accumulated, and share some of my thoughts, too.
