@@ -2,7 +2,7 @@
 created: 2025.06.19 19:18
 public: true
 ---
-This is a running log of the changes I made to this website.
+This is a running log of the changes I made to this website, as well as a list of things I would like to add in future.
 
 ## A list of future improvements
 - [ ] Improve navigation bar
@@ -20,6 +20,9 @@ This is a running log of the changes I made to this website.
 - [ ] Divide my content into “posts” and “notes”, put these in the navbar
 - [ ] Make a list of my property system for this site
 
+## Sat 21.6.25
+- Moved the picture on the index to the bottom
+- Added some more things to the list of improvements
 ## Thu 19.6.25
 - Created site
 - Added `hide_title` option and modified `ArticleTitle.tsx` accordingly.
