@@ -248,4 +248,4 @@ This document provides a structured overview of the 12 cranial nerves, highlight
 - Clinical examination of cranial nerves is essential to localize neurological lesions, as each nerve has distinct functions and pathways.
 
 ---
-Links: [[4 Indices/medicine]]
+Links: [[medicine]]

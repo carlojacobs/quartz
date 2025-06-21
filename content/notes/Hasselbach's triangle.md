@@ -5,4 +5,4 @@ public: true
 ![](/attachments/Pasted%20image%2020250326122004.png)
 
 ---
-Links: [[4 Indices/medicine]]
+Links: [[medicine]]
