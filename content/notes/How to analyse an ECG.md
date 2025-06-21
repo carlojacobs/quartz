@@ -41,4 +41,4 @@ Normal:
 If there is elevation, think MI or pericarditis. If there is depression, think ischemia or old MI.
 
 ---
-Links: [[4 Indices/medicine]]
+Links: [[medicine]]

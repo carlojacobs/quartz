@@ -18,4 +18,4 @@ Test result examples:
 | Could be infected/unclear          | -     | -     | +     |
 
 ---
-Links: [[4 Indices/medicine]]
+Links: [[medicine]]
