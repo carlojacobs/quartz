@@ -3,6 +3,7 @@ created: 2025.06.21 14:31
 title: Notes
 hide_metadata: true
 public: true
+location: ./
 ---
 ## Notes from the beautiful field of medicine
 

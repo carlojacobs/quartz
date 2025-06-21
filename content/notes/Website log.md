@@ -19,6 +19,7 @@ This is a running log of the changes I made to this website, as well as a list o
 - [ ] Publish productivity readme
 - [ ] Divide my content into “posts” and “notes”, put these in the navbar
 - [ ] Make a list of my property system for this site
+- [ ] Change the `location: ./` property and handle this differently
 
 ## Sat 21.6.25
 - Moved the picture on the index to the bottom
