@@ -18,13 +18,14 @@ So now I take care to write some things down. I do it despite my gut telling my 
 
 A lot of people build their own personal knowledge bases, that start to look a lot like small Wikipedias. I have my doubts about this approach. First of all, there already exists such a thing, it is called Wikipedia. It is readily available, usually accurate and more than sufficient to brush up on your knowledge on [the Bell test](https://en.wikipedia.org/wiki/Bell_test), [Turing machines](https://en.wikipedia.org/wiki/Turing_machine) or the [Jurassic period](https://en.wikipedia.org/wiki/Jurassic). So, creating your own wiki seems to me to be a large waste of time. You *are* merely copying what’s already available to you. But, and here’s the rub, almost everything can be found on Wikipedia, so by that logic, you shouldn’t take any notes at all[^1]? 
 
-Central question: what to take notes on and what to skip?
+In order to avoid redundancy, I only take a note of something when it satisfies one or more of the following criteria:
 
-I don’t want to create my own wiki.
+- The note is an original thought.
+- The note is something I reference remarkably frequently.
+- The note is something I could look up, but I want to give it my own interpretation or contribution.
 
-Why 
 
-Only create a note if:
-- You reference it often, and can 
+Now give examples and explain…
+
 
 [^1]: Disregarding practical notes like shopping lists and the name of your dentist, of course.
